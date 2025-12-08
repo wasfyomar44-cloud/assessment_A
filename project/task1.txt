@@ -1,0 +1,26 @@
+List of files in the root directory
+/home/abd-alah-fashesh/Desktop/assessment_a/project
+total 4194380
+lrwxrwxrwx   1 root root          7 Oct  3 16:35 bin -> usr/bin
+drwxr-xr-x   4 root root       4096 Nov  1 12:44 boot
+drwxr-xr-x   2 root root       4096 Jan  1  1970 cdrom
+drwxr-xr-x  21 root root       5400 Dec  8  2025 dev
+drwxr-xr-x 141 root root      12288 Nov  5 10:57 etc
+drwxr-xr-x   3 root root       4096 Oct 15 12:08 home
+lrwxrwxrwx   1 root root          7 Oct  3 16:35 lib -> usr/lib
+lrwxrwxrwx   1 root root          9 Oct  3 16:35 lib64 -> usr/lib64
+drwx------   2 root root      16384 Oct 15 12:04 lost+found
+drwxr-xr-x   3 root root       4096 Oct 15 12:12 media
+drwxr-xr-x   2 root root       4096 Oct  7 04:32 mnt
+drwxr-xr-x   3 root root       4096 Oct 21 10:30 opt
+dr-xr-xr-x 457 root root          0 Dec  8  2025 proc
+drwx------   5 root root       4096 Oct 15 12:08 root
+drwxr-xr-x  42 root root       1100 Dec  8 13:56 run
+lrwxrwxrwx   1 root root          8 Oct  3 16:35 sbin -> usr/sbin
+drwxr-xr-x  19 root root       4096 Nov  2 17:20 snap
+drwxr-xr-x   2 root root       4096 Oct  7 04:32 srv
+-rw-------   1 root root 4294967296 Oct 15 12:05 swap.img
+dr-xr-xr-x  13 root root          0 Dec  8  2025 sys
+drwxrwxrwt  20 root root        440 Dec  8 14:02 tmp
+drwxr-xr-x  12 root root       4096 Oct  7 04:32 usr
+drwxr-xr-x  14 root root       4096 Oct 15 12:08 var
