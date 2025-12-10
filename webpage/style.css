@@ -1,0 +1,36 @@
+/* Page background */
+body {
+    background-color: white;
+    color: red;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Div with image on the RIGHT */
+#section1 {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    margin-bottom: 20px;
+}
+
+#section1 img {
+    margin-left: 20px; /* spacing */
+}
+
+/* Div with big paragraph on the LEFT */
+#section2 {
+    background-color: #3233;
+    padding: 15px;
+}
+
+#section2 p {
+    margin-bottom: 10px;
+}
+
+/* Link styling */
+a {
+    background-color: grey;
+    color: white;
+    padding: 3px 6px;
+    text-decoration: none;
+}
