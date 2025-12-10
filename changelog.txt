@@ -1,0 +1,3 @@
+5d63008 Task 3 Done Website created with photos and text and link with style css
+2173508 Task 2 done adding alphabet bash script and output file
+ffca9ce Task 1 done adding terminal recording (output.txt) and task1.txt with required information
